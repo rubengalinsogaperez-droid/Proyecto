@@ -5,7 +5,9 @@ Constancy🔥 es una pagina creada para la gente que no sabe como hacer los ejer
 ## Tecnologias a aplicar
 ### Front
 Principalmente laravel
+(solo hice un tutorial)
 ### Backend
 No esta claro aun
+(no e echo un proyecto en mi vida)
 ### Base de datos
 ![Un gato](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-NVgcL2AKbF-ypAOlw1fZ91zdd61pb8asEecgnudn_HdYvi3kvHu26TE&s=10)
