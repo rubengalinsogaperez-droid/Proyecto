@@ -8,4 +8,4 @@ Principalmente laravel
 ### Backend
 No esta claro aun
 ### Base de datos
-![Un gato](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-NVgcL2AKbF-ypAOlw1fZ91zdd61pb8asEecgnudn_HdYvi3kvHu26TE&s=10 width="300")
+![Un gato](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-NVgcL2AKbF-ypAOlw1fZ91zdd61pb8asEecgnudn_HdYvi3kvHu26TE&s=10)
