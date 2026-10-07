@@ -11,3 +11,4 @@ No esta claro aun
 (no e echo un proyecto en mi vida)
 ### Base de datos
 ![Un gato](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-NVgcL2AKbF-ypAOlw1fZ91zdd61pb8asEecgnudn_HdYvi3kvHu26TE&s=10)
+<small>El año pasado en el iesvilla de aspe tuve muy poco contenido dado ya que habian profesores banstante ineficientes, no se muy bien como hacer o que usaré a lo largo del curso lo veré</small>
